@@ -5,8 +5,7 @@ Page({
   data: {
     motto: 'Hello World',
     userInfo: {},
-    array:[{title:'我的购物',icon:'success'},{title:'我的钱包',icon:'info'},
-          {title:'更多',icon:'info'},{title:'赞过谁',icon:'safe_success'},
+    array:[{title:'我的收藏',icon:'safe_success'},
            {title:'意见反馈',icon:'info_circle'},{title:'设置',icon:'success_circle'},
     ]
   },

@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.6.4",
-	"appid": "wx394f84d55f1c83dc",
-	"projectname": "BodhichittaRadio",
+	"appid": "touristappid",
+	"projectname": "BodhichittaFM",
 	"condition": {
 		"search": {
 			"current": -1,
